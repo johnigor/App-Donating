@@ -42,10 +42,10 @@ When Start Working is selected, start the work shift and become able to register
 - All donates from selected period.
 - Total Donation's amount from selected period. 
 
-<img src="https://github.com/johnigor/App-Donating/assets/91505101/79b71bd2-c0c4-4c54-a8b7-e40c6f0121d0" width="220"/>
-<img src="https://github.com/johnigor/App-Donating/assets/91505101/12784db5-ea00-40fd-9707-f05cb7e705c6" width="220"/>
-<img src="https://github.com/johnigor/App-Donating/assets/91505101/a27fbcff-8aa6-4e27-b02a-b32389d3d435" width="220"/>
-<img src="https://github.com/johnigor/App-Donating/assets/91505101/3febe9ab-ed1a-466f-bdc3-db4397e1fdfc" width="220"/>
+<img src="https://github.com/johnigor/App-Donating/assets/91505101/79b71bd2-c0c4-4c54-a8b7-e40c6f0121d0" width="190"/>
+<img src="https://github.com/johnigor/App-Donating/assets/91505101/12784db5-ea00-40fd-9707-f05cb7e705c6" width="190"/>
+<img src="https://github.com/johnigor/App-Donating/assets/91505101/a27fbcff-8aa6-4e27-b02a-b32389d3d435" width="190"/>
+<img src="https://github.com/johnigor/App-Donating/assets/91505101/3febe9ab-ed1a-466f-bdc3-db4397e1fdfc" width="190"/>
 
 <br />
 <br />
