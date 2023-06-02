@@ -1,8 +1,11 @@
-# Donating
-Mobile application made for Charitable Institutions and Entities to collect their donations and take control of fundraising performance based on data analysis and statistics
+# App - Donating
 
-<br />
-<br />
+A C# .NET mobile multi-platform created with Xamarin.Forms for Charitable Institutions and Entities to collect their donations and take control of fundraising performance based on data analysis and statistics.
+
+- C#, XAML, Xamarin.Forms, ASP.NET, Entity Framework
+- SQL Management Studio (SSMS)
+- Microsoft Visual Studio 2022
+
 <br />
 
 # Login Page
@@ -22,9 +25,9 @@ Mobile application made for Charitable Institutions and Entities to collect thei
 - Start Working.
 - New donation.
 - End Campaign.
-- Button to donation history.
-- Button to performance graphs. 
-- Button to Settings.
+- Redirect button to donation history.
+- Redirect button to performance graphs. 
+- Redirect button to Settings.
 
 When Start Working is selected, start the work shift and become able to register a donation.
 
@@ -72,16 +75,26 @@ When Start Working is selected, start the work shift and become able to register
 
 # New Donate
 
-<img src="" width="220"/>
+- Personal Details.
+- Address.
+- Contact.
+- Donation term and amount.
+- Select payment method.
+
+<img src="https://github.com/johnigor/App-Donating/assets/91505101/450a8dd6-72e1-4043-a2b1-90fbe1f73844" width="250"/>
+<img src="https://github.com/johnigor/App-Donating/assets/91505101/b7507cd7-825f-4373-9d0f-8b8104048122" width="250"/>
 
 <br />
 <br />
 
 # Settings
 
+- View Personal Details
+- Change Password
+- Help
+- Logout
+
 <img src="https://github.com/johnigor/App-Donating/assets/91505101/de1510bd-51a8-4c60-b393-9750a18078ca" width="200"/>
 <img src="https://github.com/johnigor/App-Donating/assets/91505101/472745a6-6b4e-4f5f-afa7-b86e56fea2db" width="200"/>
+<img src="https://github.com/johnigor/App-Donating/assets/91505101/013a9fac-10b8-4be5-b149-7a813a55741c" width="200"/>
 <img src="https://github.com/johnigor/App-Donating/assets/91505101/abef4b5c-ba51-4a7f-9be9-9d36fea12f56" width="200"/>
-
-<img src="" width="220"/>
-
