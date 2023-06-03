@@ -38,7 +38,7 @@ When Start Working is selected, start the work shift and become able to register
 <br />
 <br />
 
-# Donotion History
+# Donation History
 
 - Last donations: Daily, Weekly, Monthly.
 - Name and amount.
