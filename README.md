@@ -21,15 +21,15 @@ A C# .NET mobile multi-platform created with Xamarin.Forms for Charitable Instit
 <br />
 
 # Home Page
-- Basic Personal Details as Photo, Name, Company.
+- Basic personal detail's view as: Photo, Name, Company.
 - Start Working.
-- New donation.
+- New Donation.
 - End Campaign.
-- Redirect button to donation history.
-- Redirect button to performance graphs. 
-- Redirect button to Settings.
+- Button to donation history.
+- Button to performance graphs. 
+- Button to Settings.
 
-When Start Working is selected, start the work shift and become able to register a donation.
+When 'Start Working' is selected, start the work shift and become able to register a new donation.
 
 <img src="https://github.com/johnigor/App-Donating/assets/91505101/557e77c5-bb55-4093-870e-f2b04b61f644" width="250"/>
 <img src="https://github.com/johnigor/App-Donating/assets/91505101/9de301fb-154f-46ae-8d92-0089386af534" width="250"/>
@@ -40,10 +40,7 @@ When Start Working is selected, start the work shift and become able to register
 
 # Donation History
 
-- Last donations: Daily, Weekly, Monthly.
-- Name and amount.
-- All donates from selected period.
-- Total Donation's amount from selected period. 
+- Periodic reports containing statistics such as number of donations and total amount raised
 
 <img src="https://github.com/johnigor/App-Donating/assets/91505101/79b71bd2-c0c4-4c54-a8b7-e40c6f0121d0" width="200"/>
 <img src="https://github.com/johnigor/App-Donating/assets/91505101/12784db5-ea00-40fd-9707-f05cb7e705c6" width="200"/>
