@@ -54,11 +54,15 @@ When 'Start Working' is selected, start the work shift and become able to regist
 
 - Performance by Age Group:
 
-  Total donors and best age range of successful donations.
+ Total number of donors and age group most successful in donations.
   <br />
   Bar charts containing the range of ages.
 
 - Performance by Gender
+
+  Graphic presenting number of donors for each.
+
+  Percentage of 
 - Performance by Profession
 - Performance by Site/Location
 
